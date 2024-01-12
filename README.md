@@ -34,7 +34,6 @@ Welcome to my profile! I am Bùi Hữu Đức, a last-year student majoring in S
 - LinkedIn: [https://www.linkedin.com/in/ducbuihuu/]
 - GitHub: [https://github.com/baemgao]
 - Email: [bhduc264@gmail.com]
-- Phone: [P0971227879]
 
 ### 🤝 **Open to Collaboration**
 
