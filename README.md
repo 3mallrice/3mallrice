@@ -27,7 +27,7 @@ Welcome to my profile! I am Bùi Hữu Đức, a last-year student majoring in S
 
 ### 💡 **Personal Projects**
 
-- Check my Github: https://github.com/baemgao
+- Check my Github: https://github.com/3mallrice
 
 ### 📫 **Contact**
 
