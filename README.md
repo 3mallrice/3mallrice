@@ -23,7 +23,7 @@ Welcome to my profile! I am Bùi Hữu Đức, a last-year student majoring in S
 ### 📚 **Education**
 
 - FPT University | Bachelor's Degree in Software Engineering
- - [2020] - [2024]
+   [2020] - [2024]
 
 ### 💡 **Personal Projects**
 
