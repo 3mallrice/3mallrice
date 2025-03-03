@@ -2,9 +2,11 @@
 
 🚀 **Software Engineer | Backend Engineer | Mobile Engineer**
 
-Welcome to my profile! I am Bùi Hữu Đức, a last-year student majoring in Software Engineering at FPT University.
+Welcome to my profile! I am DucBH (3mallrice), a fresher as a fullstack developer
 
 ### 💼 **Work Experience**
+👨‍💻 Fullstack developer | [ISV Vietnam]
+- As a fresher man
 
 👨‍💻 Backend Engineer | [FPT Software]
 - Internship 4 months in FPT Software (HCM)
@@ -15,9 +17,10 @@ Welcome to my profile! I am Bùi Hữu Đức, a last-year student majoring in S
 ### 🚀 **Skills**
 
 - **Programming Languages**: C#, Dart (Flutter), MS SQL.
-- **Backend**: ASP.NET Core, Entity Framework, RESTful API.
+- **Backend**: ASP.NET Core, Entity Framework, RESTful API, NodeJs.
+- **Frondend**: React TS.
 - **Mobile**: Flutter, Dart, Firebase.
-- **Database**: SQL Server.
+- **Database**: SQL Server, MySQL, PostgreSQL.
 - **Knowledge**: Algorithms, system design, source code management (Git).
 
 ### 📚 **Education**
@@ -31,6 +34,7 @@ Welcome to my profile! I am Bùi Hữu Đức, a last-year student majoring in S
 
 ### 📫 **Contact**
 
+- Portfolio: [https://ducbh.netlify.app/]
 - LinkedIn: [https://www.linkedin.com/in/ducbuihuu/]
 - GitHub: [https://github.com/3mallrice]
 - Email: [bhduc264@gmail.com]
